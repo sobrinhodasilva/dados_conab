@@ -1,2 +1,10 @@
-# dados_conab
-Scrapy das planilhas e criação de uma base de dados dos referenciais da CONAB - Companhia Nacional de Abastecimento. 
+# Obtenção de dados do site da CONAB - Companhia Nacional de Abastecimento. 
+
+### SCRAPY_CONAB.ipynb
+
+Scrapy das planilhas de custo de produção  e preços.
+
+As planilhas são baixadas através dá página [https://www.conab.gov.br/info-agro/custos-de-producao] 
+
+### criação de uma base de dados 
+dos referenciais da 
